@@ -32,8 +32,8 @@
   }
 }
 .a {
-  width: 100vw;
-  height: 2vw;
+  width: 750px;
+  height: 50px;
   background: pink;
 }
 </style>
